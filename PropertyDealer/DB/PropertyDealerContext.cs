@@ -17,5 +17,7 @@ namespace PropertyDealer.DB
         public DbSet<City> Cities { get; set; }
         public DbSet<Province> Provinces { get; set; }
         public DbSet<Country> Countries { get; set; }
+
+        public System.Data.Entity.DbSet<PropertyDealer.Models.Customer> Customers { get; set; }
     }
 }

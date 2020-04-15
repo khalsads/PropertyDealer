@@ -108,3 +108,4 @@ C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDeal
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.Migrations.AddressDatabasecreation.resources
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.csproj.GenerateResource.cache
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.Migrations._1tomanylinkforaddressmodel.resources
+C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.Migrations.AddedCustomermodeland1tomannyrelationtoaddress.resources

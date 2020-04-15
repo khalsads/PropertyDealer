@@ -15,7 +15,7 @@ namespace PropertyDealer.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Together we will make a property your Home.";
 
             return View();
         }

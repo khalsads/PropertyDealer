@@ -19,5 +19,7 @@ namespace PropertyDealer.Models
 
         public string CountryName { get; set; }
         public Country Country { get; set; }
+
+        public List<Customer> Customers { get; set; }
     }
 }
