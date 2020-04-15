@@ -59,7 +59,6 @@ C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.AspNet.I
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.Security.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\bin\Microsoft.Owin.Security.Google.dll
@@ -106,3 +105,6 @@ C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDeal
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.csproj.CopyComplete
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.dll
 C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.pdb
+C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.Migrations.AddressDatabasecreation.resources
+C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.csproj.GenerateResource.cache
+C:\Users\khals\source\repos\PropertyDealer\PropertyDealer\obj\Debug\PropertyDealer.Migrations._1tomanylinkforaddressmodel.resources
